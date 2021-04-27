@@ -37,7 +37,7 @@ def get_input():
              'density': des,
              'chlorides': chlor,
              'free sulfur dioxide': free_sd,
-             'pH': ph   
+             'pH': ph,   
              
             }
 
